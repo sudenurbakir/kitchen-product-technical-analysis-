@@ -8,7 +8,7 @@ Bir ürünle ilgili problem bildirildiğinde ilk amacım problemi hemen çözmek
 
 ## 1. Problemi Tanımla
 
-Öncelikle gelen şikâyeti mümkün olduğunca net hale getiririm.
+Öncelikle gelen şikayeti mümkün olduğunca net hale getiririm.
 
 Örneğin:
 
@@ -164,7 +164,7 @@ Ancak yine de bunu kesin kök neden olarak kabul etmeden önce gerekli doğrulam
 
 ---
 
-## 6. Kanıt ile Varsayımı Ayır
+## 6. Kanıt ile Varsayım Farkı
 
 Teknik problem analizinde önemli bir nokta:
 
@@ -172,13 +172,13 @@ Teknik problem analizinde önemli bir nokta:
 
 Örneğin:
 
-❌ "PVD kaplama bozulmuş."
+"PVD kaplama bozulmuş."
 
 Bu bir sonuçtur ve kanıt olmadan söylenmemelidir.
 
 Daha doğru yaklaşım:
 
-✅ "Yüzeyde renk değişimi gözlemlendi. Kullanılan temizlik ürünü ve uygulama şekli inceleniyor."
+"Yüzeyde renk değişimi gözlemlendi. Kullanılan temizlik ürünü ve uygulama şekli inceleniyor."
 
 Böylece bildiğim bilgi ile henüz doğrulamadığım ihtimali birbirinden ayırırım.
 
