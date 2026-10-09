@@ -241,7 +241,7 @@ Bu bölümdeki kavramları kullanırken benim için en önemli yaklaşım şu:
 
 Örneğin:
 
-**Şikâyet:**
+**Şikayet:**
 
 > "Evye su kaçırıyor."
 
